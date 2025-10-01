@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**dylan-mcnally/dylan-mcnally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dylan McNally
 
-Here are some ideas to get you started:
+Hi, I’m **Dylan McNally** — educator, researcher, and operations leader at **Cornell University (eCornell)**.  
+I currently work at the intersection of **data science, artificial intelligence, and education**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Interests
+- **Data Science & Analytics**: Python, R, SQL; forecasting, optimization, and data visualization  
+- **Computational Biology**: multi-parameter imaging, tumor microenvironment modeling, and computer vision for biomedical data  
+- **Healthcare Informatics**: large-scale epidemiological studies and data integration across clinical systems  
+- **Education Technology**: designing AI-driven tools for facilitation and student feedback, and building learning analytics frameworks that enhance engagement and outcomes
+
+---
+
+ ## Explore my work:  
+- [Google Scholar](https://scholar.google.com/citations?user=2dx7h9wAAAAJ&hl=en)  
+- [ORCID](https://orcid.org/0000-0001-7831-0349)  
+ 
