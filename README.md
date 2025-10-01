@@ -10,7 +10,7 @@ I currently work at the intersection of **data science, artificial intelligence,
 - **Data Science & Analytics**: Python, R, SQL; forecasting, optimization, and data visualization  
 - **Computational Biology**: multi-parameter imaging, tumor microenvironment modeling, and computer vision for biomedical data  
 - **Healthcare Informatics**: large-scale epidemiological studies and data integration across clinical systems  
-- **Education Technology**: designing AI-driven tools for facilitation and student feedback and building learning analytics frameworks that enhance engagement and outcomes
+- **Education Technology**: designing AI-driven tools for student feedback; building learning analytics frameworks that enhance engagement and outcomes
 
 ---
 
